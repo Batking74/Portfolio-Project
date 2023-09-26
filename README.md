@@ -8,7 +8,7 @@ This is my portfolio project displaying my past projects and acomplishments.
 - I built this project to get organized with all of my projects, and only display a few of my best ones in one place.
 - From this project I learned how to better my organizational skills.
 
-!["Image of Nazir's Portfolio Project"](</Assets/images/Naz_Portfolio_Project_Screenshot.png>)
+!["Image of Nazir's Portfolio Project"](<./Assets/images/Naz_Portfolio_Project_Screenshot.png>)
 
 ## This Project does the following
   - Starts off by presenting my name, links to my resume, work/projects, and contact information.
