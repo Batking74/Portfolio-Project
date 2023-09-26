@@ -1,7 +1,7 @@
 # Portfolio Project
 
 
-## Description
+### Description
 This is my portfolio project displaying my past projects and acomplishments.
 
 - My motivation for this project was being able to group all of my projects into one place.
