@@ -22,6 +22,6 @@ This is my portfolio project displaying my past projects and acomplishments.
 - CSS
 
 
-Deployed Site: https://batking74.github.io/Protfolio-Project/
+Deployed Site: https://batking74.github.io/Portfolio-Project/
 
 GitHub Repository: https://github.com/Batking74/Protfolio-Project
