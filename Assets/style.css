@@ -135,7 +135,7 @@ img:hover {
 /* Start of Contact Section */
 .contact-info-container {
     display: flex;
-    column-gap: 105px;
+    column-gap: 90px;
 }
 
 .contact-info-container p, .contact-info-container a {
